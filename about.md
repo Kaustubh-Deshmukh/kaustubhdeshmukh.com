@@ -1,18 +1,15 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Kaustubh Deshmukh. A curious developer & a naive blogger. I like to code in different languages.
+Kotlin is my new favourite after Go. I like to travel, specially by road. I also eat a lot.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find my work at GitHub:
+[GitHub](https://github.com/Kaustubh-Deshmukh)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can follow me on:
+[Twitter](https://twitter.com/_kaustubh_)
+[Instagram](https://instagram.com/kaustubhdeshmukh)
